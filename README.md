@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DizelN0
+- 👀 I am interested in learning Python and C# programming language. I am also currently studying the unity program.
+- 🌱 I try to make some stuff, 'cause i like to challenge me.
+- 📫 How to reach me: telegram @gameisonnow.
